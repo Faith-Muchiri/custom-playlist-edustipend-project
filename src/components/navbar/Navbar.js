@@ -3,7 +3,7 @@ import './navbar.css'
 
 const Navbar = () => {
   return (
-    <nav className='navbar'>
+    <nav>
       <span className='navbar__text'>Contact us</span>
       <button className='signup__btn'>Signup</button>
     </nav>
